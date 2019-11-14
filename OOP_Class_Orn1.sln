@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Class_Orn1", "WindowsFormsApp1\OOP_Class_Orn1.csproj", "{43A9E231-DD07-470D-9C8E-44E6A51E57D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Statics", "OOP.Statics\OOP.Statics.csproj", "{6DA42E1B-E6FF-4380-8537-712787D4B5A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Inheritance_", "OOP.Inheritance_\OOP.Inheritance_.csproj", "{603FA7F0-7D26-4D59-9770-C4588FE5FC47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{43A9E231-DD07-470D-9C8E-44E6A51E57D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43A9E231-DD07-470D-9C8E-44E6A51E57D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43A9E231-DD07-470D-9C8E-44E6A51E57D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DA42E1B-E6FF-4380-8537-712787D4B5A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA42E1B-E6FF-4380-8537-712787D4B5A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA42E1B-E6FF-4380-8537-712787D4B5A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA42E1B-E6FF-4380-8537-712787D4B5A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{603FA7F0-7D26-4D59-9770-C4588FE5FC47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603FA7F0-7D26-4D59-9770-C4588FE5FC47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603FA7F0-7D26-4D59-9770-C4588FE5FC47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603FA7F0-7D26-4D59-9770-C4588FE5FC47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
